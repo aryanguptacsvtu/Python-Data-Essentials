@@ -1,4 +1,4 @@
-# 📊 Jupyter Notebook - NumPy & Pandas Learning Repository
+# 📊 Python Data Essentials - NumPy & Pandas Learning Repository
 
 A comprehensive collection of Jupyter notebooks demonstrating practical implementations and exercises in NumPy and Pandas for data analysis and manipulation.
 
